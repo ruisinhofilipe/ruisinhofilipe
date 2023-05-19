@@ -9,15 +9,13 @@
 ## :book: A little more about myself...
 
 
-## 📫 How to reach me:
-[ruisinhofilipe@gmail.com](ruisinhofilipe@gmail.com)
+## 📫 Connect with me:
+<!-- [ruisinhofilipe@gmail.com](ruisinhofilipe@gmail.com) -->
+[<img src="./socials/linkedin.png" height="83px" align="center"/>](https://www.linkedin.com/in/rui-filipe-721600276/)
+[<img src="./socials/instagram.png" height="50px" align="center"/>](https://www.instagram.com/ruisinhofilipe/?hl=en)
+[<img src="./socials/tt.png" height="50px" align="center"/>](https://www.twitter.com)
+[<img src="./socials/github.png" height="50px" align="center"/>](https://github.com/ruisinhofilipe)
 
-
-[<img src="./socials/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/rui-filipe-721600276/))
-[<img src="./socials/instagram.png" height="40em" align="center"/>](https://www.instagram.com/ruisinhofilipe/?hl=en)
-
-https://www.linkedin.com/in/rui-filipe-721600276/
-https://www.instagram.com/ruisinhofilipe/?hl=en
 
 
 #### I'm always looking for help
