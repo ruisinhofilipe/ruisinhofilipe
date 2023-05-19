@@ -1,6 +1,6 @@
 # Hey, I'm Rui Silva 👋
 
-***Currently studying at [@BeCode](https://becode.org/), Belgium and soon to be a web dev.*** 
+***Currently studying at [@BeCode](https://becode.org/) in Belgium and soon to be a web dev.*** 
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU0YTQ1MDZkYzllNWViZDNhODI0MTc5NjJhNGM5Y2EyNGMxNmY0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif" />
@@ -8,14 +8,11 @@
 
 ## A little more about myself...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, PHP, REACT
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## How to reach me:
+[Email](ruisinhofilipe@gmail.com)
+
+#### I'm always looking for help
+- 🔭 I’m currently working with HTML, CSS, JAVASCRIPT.
+- 🌱 I’m currently learning PHP, REACT, SQL, Angular.
+
