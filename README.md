@@ -2,8 +2,7 @@
 
 *Currently studying at @BeCode in Belgium*
 Self-taugh programming student currently studying at @BeCode Liege, Belgium.
-![coding gif]([https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU0YTQ1MDZkYzllNWViZDNhODI0MTc5NjJhNGM5Y2EyNGMxNmY0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif))
-
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWU0YTQ1MDZkYzllNWViZDNhODI0MTc5NjJhNGM5Y2EyNGMxNmY0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iIqmM5tTjmpOB9mpbn/giphy.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
