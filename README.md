@@ -19,12 +19,12 @@
 [<img src="./socials/github.png" height="50px" align="center"/>](https://github.com/ruisinhofilipe)
 
 ## Languages and tools:
-[<img src="./languageTools/html.png" height="83px" align="center"/>]
-![css](<img src="./languageTools/css.png" height="83px" align="center"/>)
-![linux](<img src="./languageTools/linux.png" height="83px" align="center"/>)
-![javascript](<img src="./languageTools/javascript.png" height="83px" align="center"/>)
-![react](<img src="./languageTools/react.png" height="83px" align="center"/>)
-![php](<img src="./languageTools/php.png" height="83px" align="center"/>)
+![html](<img src="./languagesTools/html.png" height="83px" align="center"/>)
+![css](<img src="./languagesTools/css.png" height="83px" align="center"/>)
+![linux](<img src="./languagesTools/linux.png" height="83px" align="center"/>)
+![javascript](<img src="./languagesTools/javascript.png" height="83px" align="center"/>)
+![react](<img src="./languagesTools/react.png" height="83px" align="center"/>)
+![php](<img src="./languagesTools/php.png" height="83px" align="center"/>)
 ![gitub](<img src="./socials/github.png" height="83px" align="center"/>)
 
 
