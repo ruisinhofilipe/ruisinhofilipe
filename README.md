@@ -1,7 +1,8 @@
-### Hi there 👋
+# Hey, I'm Rui Silva 👋
 
-<!--
-**ruisinhofilipe/ruisinhofilipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Currently studying at @BeCode in Belgium*
+Self-taugh programming student currently studying at @BeCode Liege, Belgium.
+![Alt Text](https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)
 
 Here are some ideas to get you started:
 
