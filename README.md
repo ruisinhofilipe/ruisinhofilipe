@@ -19,7 +19,7 @@
 [<img src="./socials/github.png" height="50px" align="center"/>](https://github.com/ruisinhofilipe)
 
 ## Languages and tools:
-![html](<img src="./languageTools/html.png" height="83px" align="center"/>)
+[<img src="./languageTools/html.png" height="83px" align="center"/>]
 ![css](<img src="./languageTools/css.png" height="83px" align="center"/>)
 ![linux](<img src="./languageTools/linux.png" height="83px" align="center"/>)
 ![javascript](<img src="./languageTools/javascript.png" height="83px" align="center"/>)
