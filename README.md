@@ -12,10 +12,8 @@
 ## 📫 How to reach me:
 [ruisinhofilipe@gmail.com](ruisinhofilipe@gmail.com)
 
-<!-- [![](./socials/linkedin.png)][(https://www.linkedin.com/in/rui-filipe-721600276/)]
-[![](./socials/instagram.png)][(https://www.instagram.com/ruisinhofilipe/?hl=en)]
-[(https://www.instagram.com/ruisinhofilipe/?hl=en)]
-[(https://www.linkedin.com/in/rui-filipe-721600276/)] -->
+
+[<img src="./socials/linkedin.png" height="40em" align="center"/>](https://www.linkedin.com/in/rui-filipe-721600276/))
 [<img src="./socials/instagram.png" height="40em" align="center"/>](https://www.instagram.com/ruisinhofilipe/?hl=en)
 
 https://www.linkedin.com/in/rui-filipe-721600276/
