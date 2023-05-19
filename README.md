@@ -12,8 +12,8 @@
 ## 📫 How to reach me:
 [ruisinhofilipe@gmail.com](ruisinhofilipe@gmail.com)
 
-[![](./socials/linkedin.png)](https://www.linkedin.com/in/rui-filipe-721600276/)
-[![](./socials/instagram.png)](https://www.instagram.com/ruisinhofilipe/?hl=en)
+[![](./socials/linkedin.png)]<img src="https://www.linkedin.com/in/rui-filipe-721600276/"  width="100" height="100">
+[![](./socials/instagram.png)]<img src="https://www.instagram.com/ruisinhofilipe/?hl=en"  width="1oo" height="100">
 
 
 #### I'm always looking for help
