@@ -11,7 +11,7 @@
 - 🔭 I’m currently working with HTML, CSS, JAVASCRIPT.
 - 🌱 I’m currently learning PHP, REACT, SQL, Angular.
 
-## Connect with me:
+<!-- ## Connect with me:
 <!-- [ruisinhofilipe@gmail.com](ruisinhofilipe@gmail.com) -->
 [<img src="./socials/linkedin.png" height="83px"/>](https://www.linkedin.com/in/rui-filipe-721600276/)
 [<img src="./socials/instagram.png" height="50px"/>](https://www.instagram.com/ruisinhofilipe/?hl=en)
@@ -28,5 +28,5 @@
 ![gitub](<img src="./socials/github.png" height="83px" align="center"/>)
 
 
-
+ -->
 
