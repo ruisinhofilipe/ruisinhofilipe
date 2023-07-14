@@ -8,8 +8,15 @@
 
 ## :book: A little more about myself...
 
-- 🔭 I’m currently working with HTML, CSS, JAVASCRIPT.
-- 🌱 I’m currently learning PHP, REACT, SQL, Angular.
+- 👨‍💻 I’m currently working with:
+  - HTML
+  - CSS
+  - JAVASCRIPT
+  - React
+    
+- 📚 I’m currently learning:
+  -  React
+  -  Node.Js
 
 
 
