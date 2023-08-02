@@ -13,10 +13,12 @@
   - CSS
   - JAVASCRIPT
   - React
+  - SQL
+  - PHP
     
 - 📚 I’m currently learning:
-  -  React
-  -  Node.Js
+  -  SQL
+  -  PHP
 
 
 
