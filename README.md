@@ -12,15 +12,13 @@
   - HTML
   - CSS
   - JAVASCRIPT
-  - React
-  - SQL
-  - PHP
+  - React 
   - NodeJS
   - MangoDB
     
 - 📚 I’m currently learning:
   -  NodeJs
-  -  MangoDB
+  -  MongoDB
 
 
 
