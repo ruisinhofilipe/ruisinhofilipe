@@ -15,10 +15,12 @@
   - React
   - SQL
   - PHP
+  - NodeJS
+  - MangoDB
     
 - 📚 I’m currently learning:
-  -  SQL
-  -  PHP
+  -  NodeJs
+  -  MangoDB
 
 
 
