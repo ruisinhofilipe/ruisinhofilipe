@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Rui Silva 👋</h1>
+<h1 align="center">Hey, I'm Rui Silva 👋</h1
+                                         
 ***Currently studying at [@BeCode](https://becode.org/) in Belgium and soon to be a web dev.*** 
 
 <p align="center">
