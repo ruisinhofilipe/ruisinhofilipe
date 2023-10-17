@@ -7,18 +7,8 @@
 
 ## :book: A little more about myself...
 
-- 👨‍💻 I’m currently working with:
-  - HTML
-  - CSS
-  - JAVASCRIPT
-  - ReactJS
-  - NodeJS
-  - MongoDB
-  - PHP
-    
-- 📚 I’m currently learning:
-  -  NodeJS
-  -  MongoDB
+- 👨‍💻 I’m currently working with: **HTML**, **CSS**, **Javascript**, **ReactJS**, **PHP**, **NodeJS**, **SQL**, **MongoDB**,     
+- 📚 I’m currently learning: **NodeJS**, **MongoDB**
 
 
 
