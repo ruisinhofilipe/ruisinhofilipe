@@ -9,6 +9,7 @@
 
 - 👨‍💻 I’m currently working with: **HTML**, **CSS**, **Javascript**, **ReactJS**, **PHP**, **SQL**, **NodeJS**, **MongoDB**    
 - 📚 I’m currently learning: **NodeJS**, **MongoDB**
+- 🧑‍🎓 I’m currently studying at **BeCode, Belgium**
 
 
 
